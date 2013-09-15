@@ -2,6 +2,7 @@ IRS Modernized e-File (MeF): A Blueprint For Public & Private Sector Partnership
 ==============================
 
 **09/15/2013**
+
 **Kin Lane (@kinlane)**
 
 The Internal Revenue Service is the revenue arm of the United States federal government, responsible for collecting taxes, the interpretation and enforcement of the Internal Revenue code.
@@ -25,7 +26,7 @@ By 2000, Congress had passed IRS RRA 98, which contained a provision setting a g
 ###Moving Beyond Paper One Form At A Time
 Evolving beyond a 100 years of paper process doesn't happen over night. Even with the employment of the latest Internet technologies, you have to incrementally bridge the legacy paper processes to a new online, digital world. After the deployment of the MeF, the IRS worked year by year to add the myriad of IRS forms to the e-File web service, allowing software companies, tax preparers, and corporations to digitally submit forms into IRS systems over the Internet. Form by form the IRS was being transformed from a physical document organization to a distributed network of partners that could submit digital forms through a secure, online web service.  
 
-##Technological Building Blocks
+##Technology Building Blocks
 
 The IRS MeF solution represents a new approach to using modern technology by the federal government in the 21st century Internet age. In the last 15 years, a new breed of Internet enabled software standards have emerged that enable the government to partner with the private sector, as well as other government agencies, in ways that were unimaginable just a decade ago.
 
@@ -78,7 +79,7 @@ To nurture an ecosystem of partners, it takes a wealth of resources. Providing t
 ###Sharing of e-file Market Research Data
 Transparency of the MeF platform goes beyond individual platform operations, and the IRS acknowledges this important aspect of building an ecosystem of web service partners. The IRS provides valuable e-File market research data to partners, by making available e-file demographic data, filing attribute reports, and related research and surveys. This important data provides valuable insight for MeF partners to use in their own decision making process, but also provides the necessary information partners need to educate their own consumers, and the general public about the value the e-File process delivers. Market research awareness is not just something the IRS needs, it needs to be disseminated and shared downstream providing the right amount of transparency that will ensure healthy ecosystem operations.
 
-##Politics of Web Services
+##Politicical Building Blocks
 
 Beyond the technology and business of the MeF web services platform, there are plenty of political activities that will make sure everything operates as intended. Politics of web service operations can be as simple as communicating properly with partners, providing transparency, or all the way up to security, proper governance of web service, and enforcement of federal laws.
 
@@ -108,7 +109,7 @@ SOA provides three essential ingredients for public and private sector partnersh
 
    * Technology - Secure usage of modern approaches to using compute, storage and Internet networking technology in a distributed manner
    * Business - Adherence to government lines of business, while also acknowledging the business needs and interest of 3rd party private sector partners
-   * Politics - A flexible understanding and execution of activities involved in establishing a distributed ecosystem of partners, while maintaining an overall healthy balance of operation
+   * Politics - A flexible understanding and execution of activities involved in establishing a distributed ecosystem of partners, and maintaining an overall healthy balance of operation
 
 The IRS MeF platform employs this balance at a scale that is unmatched in federal government currently. MeF provides a working blueprint can be applied across federal government, in areas ranging from the veterans claims process to the financial regulatory process. 
 
