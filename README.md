@@ -27,7 +27,7 @@ By 2000, Congress had passed IRS RRA 98, which contained a provision setting a g
 ###Moving Beyond Paper One Form At A Time
 Evolving beyond a 100 years of paper process doesn't happen overnight. Even with the deployment of the latest Internet technologies, you have to incrementally bridge the legacy paper processes to a new online, digital world. After the deployment of the MeF, the IRS worked year by year to add the myriad of IRS forms to the e-File web service, allowing software companies, tax preparers, and corporations to digitally submit forms into IRS systems over the Internet. Form by form, the IRS was being transformed from a physical document organization to a distributed network of partners that could submit digital forms through a secure, online web service.  
 
-##Technology Building Blocks
+##Technological Building Blocks
 
 The IRS MeF solution represents a new approach to using modern technology by the federal government in the 21st century Internet age. In the last 15 years, a new breed of Internet enabled software standards have emerged that enable the government to partner with the private sector, as well as other government agencies, in ways that were unimaginable just a decade ago.
 
@@ -84,7 +84,7 @@ To nurture an ecosystem of partners, it takes a wealth of resources. Providing t
 ###Market Research Data
 Transparency of the MeF platform goes beyond individual platform operations, and the IRS acknowledges this important aspect of building an ecosystem of web service partners. The IRS provides valuable e-File market research data to partners by making available e-file demographic data and related research and surveys. This important data provides valuable insight for MeF partners to use in their own decision making process, but also provides the necessary information partners need to educate their own consumers as well as the general public about the value the e-File process delivers. Market research is not just something the IRS needs for its own purposes; this research needs to be disseminated and shared downstream providing the right amount of transparency that will ensure healthy ecosystem operations.
 
-##Politicical Building Blocks
+##Political Building Blocks
 
 Beyond the technology and business of the MeF web services platform, there are plenty of political activities that will make sure everything operates as intended. The politics of web service operations can be as simple as communicating properly with partners, providing transparency, or all the way up to security, proper governance of web service, and enforcement of federal laws.
 
