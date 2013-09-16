@@ -5,6 +5,8 @@ IRS Modernized e-File (MeF): A Blueprint For Public & Private Sector Partnership
 
 **Kin Lane (@kinlane)**
 
+[Download as PDF](http://bit.ly/147BfVv)
+
 <img src="https://s3.amazonaws.com/kinlane-productions/federal-government/irs/bw-irs-logo.jpg" align="right" width="225" style="padding:15px;" />The Internal Revenue Service is the revenue arm of the United States federal government, responsible for collecting taxes, the interpretation and enforcement of the Internal Revenue code.
 
 The first income tax was assessed in 1862 to raise funds for the American Civil War, and over the years the agency has grown and evolved into a massive federal entity that collects over $2.4 trillion each year from approximately 234 million tax returns.
